@@ -1,5 +1,5 @@
 {
-    "data": {
+    
         "parameters": {
             "historyType": "RECENT",
             "count": 10,
@@ -345,5 +345,5 @@
             }
         ],
         "totalHistoryEntries": 18
-    }
+    
 }
