@@ -1,0 +1,349 @@
+{
+    "data": {
+        "parameters": {
+            "historyType": "RECENT",
+            "count": 10,
+            "offset": 0,
+            "currencyCode": "EUR",
+            "desc": true,
+            "includeChildren": true,
+            "offerCodes": [
+                "FDJ_WEB",
+                "SPORT"
+            ],
+            "sort": "DATE"
+        },
+        "responseData": [
+            {
+                "amountIn": {
+                    "value": 300,
+                    "currency": "EUR"
+                },
+                "amountOut": {
+                    "value": 0,
+                    "currency": "VUV"
+                },
+                "closeReason": "CLO",
+                "ecoCode": "ITG",
+                "exsCode": "LGR",
+                "eventReference": "{\"prizeRank\":\"8\",\"processId\":\"962d74b7-dfa0-44a5-81b5-6abb7573c2c6\",\"providerId\":\"ITF\"}",
+                "paymentStatus": "CLO",
+                "status": "CLO",
+                "externalId": "2362/ITF",
+                "id": 459761797,
+                "closeTime": "2020-01-17T14:48:46.332+01:00",
+                "date": "2020-01-17T14:48:46.126+01:00",
+                "children": [],
+                "transactionDebit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 300
+                    }
+                ]
+            },
+            {
+                "amountIn": {
+                    "value": 300,
+                    "currency": "EUR"
+                },
+                "amountOut": {
+                    "value": 100000,
+                    "currency": "EUR"
+                },
+                "closeReason": "CLO",
+                "ecoCode": "ITG",
+                "exsCode": "LGR",
+                "eventReference": "{\"prizeRank\":\"2\",\"processId\":\"9b472c08-f078-439f-938d-cbac1e740741\",\"providerId\":\"ITF\"}",
+                "paymentStatus": "CLO",
+                "status": "CLO",
+                "externalId": "2361/ITF",
+                "id": 459761795,
+                "closeTime": "2020-01-17T14:48:16.126+01:00",
+                "date": "2020-01-17T14:48:15.957+01:00",
+                "children": [],
+                "transactionCredit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 100000
+                    }
+                ],
+                "transactionDebit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 300
+                    }
+                ]
+            },
+            {
+                "amountIn": {
+                    "value": 300,
+                    "currency": "EUR"
+                },
+                "amountOut": {
+                    "value": 300,
+                    "currency": "EUR"
+                },
+                "closeReason": "CLO",
+                "ecoCode": "ITG",
+                "exsCode": "LGR",
+                "eventReference": "{\"prizeRank\":\"7\",\"processId\":\"3c2d5d9d-694a-4577-bccd-d3b9108bcc21\",\"providerId\":\"ITF\"}",
+                "paymentStatus": "CLO",
+                "status": "CLO",
+                "externalId": "2360/ITF",
+                "id": 459761794,
+                "closeTime": "2020-01-17T14:47:45.875+01:00",
+                "date": "2020-01-17T14:47:45.729+01:00",
+                "children": [],
+                "transactionCredit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 300
+                    }
+                ],
+                "transactionDebit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 300
+                    }
+                ]
+            },
+            {
+                "amountIn": {
+                    "value": 300,
+                    "currency": "EUR"
+                },
+                "amountOut": {
+                    "value": 0,
+                    "currency": "EUR"
+                },
+                "closeReason": "CLO",
+                "ecoCode": "ITG",
+                "exsCode": "LGR",
+                "eventReference": "{\"prizeRank\":\"8\",\"processId\":\"a31f55fd-ecf1-479c-95f9-68cee1a77916\",\"providerId\":\"ITF\"}",
+                "paymentStatus": "CLO",
+                "status": "CLO",
+                "externalId": "2358/ITF",
+                "id": 459761790,
+                "closeTime": "2020-01-17T14:46:55.201+01:00",
+                "date": "2020-01-17T14:46:55.049+01:00",
+                "children": [],
+                "transactionDebit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 300
+                    }
+                ]
+            },
+            {
+                "amountIn": {
+                    "value": 300,
+                    "currency": "EUR"
+                },
+                "amountOut": {
+                    "value": 600,
+                    "currency": "EUR"
+                },
+                "closeReason": "CLO",
+                "ecoCode": "ITG",
+                "exsCode": "LGR",
+                "eventReference": "{\"prizeRank\":\"6\",\"processId\":\"61d71d00-078a-4d84-9acb-efcb16a1a328\",\"providerId\":\"ITF\"}",
+                "paymentStatus": "CLO",
+                "status": "CLO",
+                "externalId": "2349/ITF",
+                "id": 459761769,
+                "closeTime": "2020-01-17T14:39:32.81+01:00",
+                "date": "2020-01-17T14:39:32.616+01:00",
+                "children": [],
+                "transactionCredit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 600
+                    }
+                ],
+                "transactionDebit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 300
+                    }
+                ]
+            },
+            {
+                "amountIn": {
+                    "value": 300,
+                    "currency": "EUR"
+                },
+                "amountOut": {
+                    "value": 3000,
+                    "currency": "EUR"
+                },
+                "closeReason": "CLO",
+                "ecoCode": "ITG",
+                "exsCode": "LGR",
+                "eventReference": "{\"prizeRank\":\"4\",\"processId\":\"c43b5c81-d997-4341-bc10-42bf592e4c53\",\"providerId\":\"ITF\"}",
+                "paymentStatus": "CLO",
+                "status": "CLO",
+                "externalId": "2347/ITF",
+                "id": 459761766,
+                "closeTime": "2020-01-17T14:39:02.805+01:00",
+                "date": "2020-01-17T14:39:02.646+01:00",
+                "children": [],
+                "transactionCredit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 3000
+                    }
+                ],
+                "transactionDebit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 300
+                    }
+                ]
+            },
+            {
+                "amountIn": {
+                    "value": 300,
+                    "currency": "EUR"
+                },
+                "amountOut": {
+                    "value": 10000,
+                    "currency": "EUR"
+                },
+                "closeReason": "CLO",
+                "ecoCode": "ITG",
+                "exsCode": "LGR",
+                "eventReference": "{\"prizeRank\":\"3\",\"processId\":\"d7e529b4-111f-4ff9-9be9-23142cc4ec7f\",\"providerId\":\"ITF\"}",
+                "paymentStatus": "CLO",
+                "status": "CLO",
+                "externalId": "2346/ITF",
+                "id": 459761764,
+                "closeTime": "2020-01-17T14:38:32.158+01:00",
+                "date": "2020-01-17T14:38:31.994+01:00",
+                "children": [],
+                "transactionCredit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 10000
+                    }
+                ],
+                "transactionDebit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 300
+                    }
+                ]
+            },
+            {
+                "amountIn": {
+                    "value": 300,
+                    "currency": "EUR"
+                },
+                "amountOut": {
+                    "value": 10000,
+                    "currency": "EUR"
+                },
+                "closeReason": "CLO",
+                "ecoCode": "ITG",
+                "exsCode": "LGR",
+                "eventReference": "{\"prizeRank\":\"3\",\"processId\":\"0f7a9273-b54e-4d14-932b-dceae903cb96\",\"providerId\":\"ITF\"}",
+                "paymentStatus": "CLO",
+                "status": "CLO",
+                "externalId": "2345/ITF",
+                "id": 459761763,
+                "closeTime": "2020-01-17T14:38:01.899+01:00",
+                "date": "2020-01-17T14:38:01.714+01:00",
+                "children": [],
+                "transactionCredit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 10000
+                    }
+                ],
+                "transactionDebit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 300
+                    }
+                ]
+            },
+            {
+                "amountIn": {
+                    "value": 300,
+                    "currency": "EUR"
+                },
+                "amountOut": {
+                    "value": 600,
+                    "currency": "EUR"
+                },
+                "closeReason": "CLO",
+                "ecoCode": "ITG",
+                "exsCode": "LGR",
+                "eventReference": "{\"prizeRank\":\"6\",\"processId\":\"f0d9ff40-c963-469d-adfb-5e5eeac0f6b0\",\"providerId\":\"ITF\"}",
+                "paymentStatus": "CLO",
+                "status": "CLO",
+                "externalId": "2344/ITF",
+                "id": 459761761,
+                "closeTime": "2020-01-17T14:37:29.359+01:00",
+                "date": "2020-01-17T14:37:29.212+01:00",
+                "children": [],
+                "transactionCredit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 600
+                    }
+                ],
+                "transactionDebit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 300
+                    }
+                ]
+            },
+            {
+                "amountIn": {
+                    "value": 300,
+                    "currency": "EUR"
+                },
+                "amountOut": {
+                    "value": 0,
+                    "currency": "EUR"
+                },
+                "closeReason": "CLO",
+                "ecoCode": "ITG",
+                "exsCode": "LGR",
+                "eventReference": "{\"prizeRank\":\"8\",\"processId\":\"1b1d2af9-1c66-4a5b-aad9-11ed99f66e67\",\"providerId\":\"ITF\"}",
+                "paymentStatus": "CLO",
+                "status": "CLO",
+                "externalId": "2329/ITF",
+                "id": 459761713,
+                "closeTime": "2020-01-17T14:23:32.325+01:00",
+                "date": "2020-01-17T14:23:32.104+01:00",
+                "children": [],
+                "transactionDebit": [
+                    {
+                        "currency": "EUR",
+                        "type": "DFT",
+                        "value": 300
+                    }
+                ]
+            }
+        ],
+        "totalHistoryEntries": 18
+    }
+}
